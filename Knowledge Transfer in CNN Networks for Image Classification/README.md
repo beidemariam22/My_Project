@@ -6,4 +6,4 @@ https://github.com/mon95/
 Sign-Language-and-Static-gesture-recognition-using-sklearn and Kaggle data formating 
 https://www.kaggle.com/datamunge/sign-language-mnist
  
-![Capture.PNG](Capture.PNG)
+![Sign_Language](amer_sign2.png)
