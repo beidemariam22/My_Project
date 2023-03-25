@@ -6,4 +6,4 @@ Dataset: SIGN LANGUAGE MNIST
 https://github.com/mon95/
 Sign-Language-and-Static-gesture-recognition-using-sklearn and Kaggle data formating https://www.kaggle.com/datamunge/sign-language-mnist
 
-![Capture.PNG](C:\Users\HP\Downloads\Projects\My_Project\Knowledge Transfer in CNN Networks for Image Classification\Capture.PNG)
+![Capture.PNG](Capture.PNG)
